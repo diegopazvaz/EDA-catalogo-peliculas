@@ -4,6 +4,6 @@ Este es un análisis EDA de un catálogo que contiene datos sobre películas y s
 ## Autor
 Diego Paz. LinkedIn: www.linkedin.com/in/diegopazvaz
 
-## Hiring
+## Contratación
 Actualmente estoy buscando una oportunidad laboral como Científico de datos jr.
 Correo de contacto: diegopvaz10@gmail.com
